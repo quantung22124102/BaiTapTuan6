@@ -1,0 +1,6 @@
+B.
+1. không có tình huống nào.
+2. không có tình huống.
+3. tùy trường hợp để dùng đễ quy hay vong lặp.
+4. cần đề phòng trường hợp tràn bộ nhớ.
+6. hàm trên có giá trị lỗi
