@@ -1,0 +1,3 @@
+c2. chương trình không in ra được vì không có điều kiện thoát cảu hàm đệ quy.
+c3. tràn bộ nhớ.
+c4. vì n quá lớn nên gây ra hiện tượng tràn bộ nhớ.
